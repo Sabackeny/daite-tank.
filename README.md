@@ -13,7 +13,7 @@
 
 1.  **Скачайте архив:**
 2.  нажмите на releases и выберете первый
-  либо скачайте по прямой [ссылке](https://github.com/Sabackeny/daite-tank./releases/download/v2/default.zip)
+  ,либо скачайте по прямой [ссылке](https://github.com/Sabackeny/daite-tank./releases/download/v2/default.zip)
 
 3.  **Распакуйте архив** в любую удобную папку на вашем компьютере.
 
